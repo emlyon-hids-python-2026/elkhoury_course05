@@ -25,4 +25,4 @@ uv run scripts/demo.py
 
 ## Author
 
-Christian EL Khoury <christian1.elkhoury@edu.em-lyon.com>
+Christian EL Khoury <christian1.elkhoury@edu.em-lyon.com> 
